@@ -1,4 +1,4 @@
-h1. simple-db-migrate "quick" documentation
+h1. simple-db-migrate "quick" documentation ( attempt to work on python3 and PyMySQL)
 
 h2. Quick start
 
